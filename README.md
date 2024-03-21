@@ -58,6 +58,9 @@ Developed by: SOUNDARYA.J RegisterNumber:212223220108
 
 
 **RESULTS**
+Thus, the implement Encoder 8 To 3 in Dataflow Modelling using verilog in Quartus software is successfully verified
+
+
 
 
 
